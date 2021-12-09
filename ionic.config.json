@@ -1,0 +1,7 @@
+{
+  "name": "shall-i",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
