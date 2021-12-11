@@ -1,5 +1,5 @@
 <template>
-  <ion-page mode="md">
+  <ion-page>
     <ion-header :translucent="true">
       <ion-toolbar>
         <ion-title>Shall you?</ion-title>
