@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'Shall I',
+  appId: 'bjerke.tek.shalli',
+  appName: 'Shall I?',
   webDir: 'dist',
   bundledWebRuntime: false
 };
