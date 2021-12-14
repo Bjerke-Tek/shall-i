@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Shall I?</string>
+    <string name="title_activity_main">Shall I?</string>
+    <string name="package_name">bjerke.tek.shalli</string>
+    <string name="custom_url_scheme">bjerke.tek.shalli</string>
+</resources>

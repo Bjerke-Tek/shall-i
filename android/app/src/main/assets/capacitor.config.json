@@ -1,0 +1,6 @@
+{
+	"appId": "bjerke.tek.shalli",
+	"appName": "Shall I?",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
